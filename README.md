@@ -1,2 +1,9 @@
-# hotel-management-system
-his is a hotel management system built with Python. It has two versions: - Console version (main.py): Runs in the terminal. - GUI version (mainly.py): Uses Tkinter and PAGE for a user-friendly interface. The project uses object-oriented programming (OOP) with classes and objects to manage hotel tasks like bookings and customer info.
+# HOTEL-MANGEMENT-GUI-AND-NORMAL-PROGRAM-PYTHON-
+I have tried to computerize the hotel management system through my project.
+The project is written in Python 3 that uses OOPS concept ie it is based on object and classes.
+
+FOR THE GUI I HAVE USED TKINTER AND PAGE
+
+THE NORMAL CODE IS NAMED AS MAIN.PY
+
+TO RUN THE GUI JUST EXECUTE MAINLY.PY
